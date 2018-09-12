@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 a79e75b7aec50585c0f743a9426a21d87d3ea1e9 Juan Miguel Pérez Hernández <31667564+compucodigo@users.noreply.github.com> 1535569406 -0400	commit (initial): Agregar .gitignore y .gitattributes.
+a79e75b7aec50585c0f743a9426a21d87d3ea1e9 40e5ad39ea93f776a8fdf5d3a184e7a4f1571681 Juan Miguel Pérez Hernández <31667564+compucodigo@users.noreply.github.com> 1535569409 -0400	commit: Agregar archivos de proyecto.
+40e5ad39ea93f776a8fdf5d3a184e7a4f1571681 a3221feb8eda9bfe8e510ed896b3e1c450797482 @compucodigo <jmph81@gmail.com> 1536698501 -0400	commit: Publicar la prueba
+a3221feb8eda9bfe8e510ed896b3e1c450797482 40e5ad39ea93f776a8fdf5d3a184e7a4f1571681 @compucodigo <jmph81@gmail.com> 1536699148 -0400	reset: moving to 40e5ad39ea93f776a8fdf5d3a184e7a4f1571681
+40e5ad39ea93f776a8fdf5d3a184e7a4f1571681 bf3f280e3ca5ce39290482b132461ccd77248055 @compucodigo <jmph81@gmail.com> 1536705282 -0400	commit: Confirmar11092018
+bf3f280e3ca5ce39290482b132461ccd77248055 0f548366216291d25d65db2217fcf07351a9799e Juan Pérez <jmph81@gmail.com> 1536758687 -0400	commit: version 1
+0f548366216291d25d65db2217fcf07351a9799e d95aa9385f7b83edd80570d51f0a82509c732442 Juan Pérez <jmph81@gmail.com> 1536759120 -0400	revert: Revert "version 1"
+d95aa9385f7b83edd80570d51f0a82509c732442 bf3f280e3ca5ce39290482b132461ccd77248055 Juan Pérez <jmph81@gmail.com> 1536759136 -0400	reset: moving to bf3f280e3ca5ce39290482b132461ccd77248055
+bf3f280e3ca5ce39290482b132461ccd77248055 7e19e48a3b30a6d8ffbc2a2ee070ff9640716b39 Juan Pérez <jmph81@gmail.com> 1536760639 -0400	commit: Publicar 1.0

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9cc90b636d6549a4be2061cf14e2545d" Name="Diagram1" >
+        <EntityTypeShape EntityType="WyngesModel.Cliente" Width="1.5" PointX="0.5" PointY="0.5" />
+        <EntityTypeShape EntityType="WyngesModel.Pelicula" Width="1.5" PointX="7.25" PointY="0.5" />
+        <EntityTypeShape EntityType="WyngesModel.AlquilerDetalle" Width="1.5" PointX="5" PointY="0.5" />
+        <AssociationConnector Association="WyngesModel.AlquilerDetallePelicula" />
+        <EntityTypeShape EntityType="WyngesModel.Alquiler" Width="1.5" PointX="3" PointY="0.5" />
+        <AssociationConnector Association="WyngesModel.AlquilerDetalleAlquiler" />
+        <AssociationConnector Association="WyngesModel.AlquilerCliente" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
